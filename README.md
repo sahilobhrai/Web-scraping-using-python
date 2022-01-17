@@ -11,4 +11,4 @@ Step 3: Write the code
 
 Step 4: Run the code to extract the data
 
-Step 5: Store the data in the necessary format
+Step 5: Store the data in csv file
